@@ -1,8 +1,20 @@
-## TV盒子软件
+## TVBox
+takagen99（take版） q215613905（俊版）
 
-<https://github.com/o0HalfLife0o/TVBoxOSC/releases>
+[Github发布地址](https://github.com/o0HalfLife0o/TVBoxOSC/releases)
 
-## TVBox [直接下载](https://g.cyao.ml/app/tvbox.apk) [123云盘](https://www.123pan.com/s/RLY9-sS3pH)
+[Telegram频道](https://t.me/TVBoxOSC)
+
+## 多仓版
+FongMI <https://f.cyao.tk/n.json><https://f.cyao.tk/n.json>
+
+影视仓 [GitHub仓库](https://github.com/FongMi/TV/releases) 
+
+
+
+
+
+## TVBox接口
 
 配置地址选一个输入 [也可以下载本地接口文件](https://g.cyao.ml/tvboxlc.zip)
 
@@ -18,11 +30,6 @@
 
 <https://gh-proxy.com/https://raw.githubusercontent.com/cyao2q/files/master/n.json>
 
-## FongMI [GitHub仓库](https://github.com/FongMi/TV/releases) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
-
-## PlutoPlayer [直接下载](https://g.cyao.ml/app/pluto.apk) [123云盘](https://www.123pan.com/s/RLY9-YZ3pH)
-
-## 手机端 [PlutoPlayer](https://g.cyao.ml/app/pluto.apk) 或者 [FongMI](https://g.cyao.ml/app/mobile-java.apk)
 
 ## 盒子软件 [分享迷](https://www.fenxm.com/tv)
 
