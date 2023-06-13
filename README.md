@@ -22,7 +22,7 @@ FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)
 
 [肥猫 | ✎ℳ𝓪𝓸](https://肥猫.love)
 
-[cyao2q](https://github.com/cyao2q/files)
+[cyao2q分享](https://github.com/cyao2q/files)
 
 个人常用配置地址
 
