@@ -28,6 +28,6 @@ FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)
 
 <https://raw.liucn.cc/box/m.json>
 
-<https://xn--m7r412advb92j21st65a.tk/pz.json>
+<https://神器每日推送.tk/pz.json>
 
 ## 盒子软件 [分享迷](https://www.fenxm.com)
