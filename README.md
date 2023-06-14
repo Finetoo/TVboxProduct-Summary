@@ -28,12 +28,12 @@ FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)
 
 [cyao2q分享](https://github.com/cyao2q/files)
 
-个人常用配置地址
+个人用过的接口
 
-<https://raw.liucn.cc/box/m.json>
+<https://la.kstore.space/download/3376/w.txt>  好像好久没更新了
 
-<https://freed.yuanhsing.cf/TVBox/meowcf.json>
+<https://raw.liucn.cc/box/m.json>  老刘备线路
 
-<https://神器每日推送.tk/pz.json>
+<http://我不是.肥猫.love:63/接口禁止贩卖>  肥猫线路
 
 ## 盒子软件 [分享迷](https://www.fenxm.com)
