@@ -1,12 +1,12 @@
 ## TVBox
 
-takagen99（take版） q215613905（俊版）
+#q215613905（俊版）  #takagen99（take版） 
 
 [Github发布地址](https://github.com/o0HalfLife0o/TVBoxOSC/releases)
 
 [Telegram发布频道](https://t.me/TVBoxOSC)
 
-## 多仓版
+## 其他二改
 
 FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)
 
@@ -35,5 +35,7 @@ FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)
 <https://raw.liucn.cc/box/m.json>  老刘备线路
 
 <http://我不是.肥猫.love:63/接口禁止贩卖>  肥猫线路
+
+<http://饭太硬.top/tv>  饭太硬线路
 
 ## 盒子软件 [分享迷](https://www.fenxm.com)
