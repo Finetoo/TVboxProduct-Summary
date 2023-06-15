@@ -44,6 +44,4 @@ FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)   特色：
 
 <https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>  南风接口
 
-<https://freed.yuanhsing.cf/TVBox/meowcf.json>  元兴线路
-
 ## 盒子软件 [分享迷](https://www.fenxm.com)
