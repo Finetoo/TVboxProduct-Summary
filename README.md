@@ -30,8 +30,6 @@ FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)   特色：
 
 个人用过的接口
 
-<https://la.kstore.space/download/3376/w.txt>  好像好久没更新了
-
 <https://raw.liucn.cc/box/m.json>  老刘备接口
 
 <http://我不是.肥猫.love:63/接口禁止贩卖>  肥猫接口
@@ -39,5 +37,13 @@ FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)   特色：
 <http://饭太硬.top/tv>  饭太硬接口
 
 <http://xhww.fun:63/小米/DEMO.json>  小米 XBPQ接口
+
+<https://yydsys.top/duo>  多多家庭接口
+
+<https://weixine.net/ysc.json>  运输车接口
+
+<https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>  南风接口
+
+<https://freed.yuanhsing.cf/TVBox/meowcf.json>  元兴线路
 
 ## 盒子软件 [分享迷](https://www.fenxm.com)
