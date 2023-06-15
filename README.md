@@ -30,15 +30,15 @@ FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)   特色：
 
 推荐接口
 
-<http://肥猫.love>  肥猫接口
+http://肥猫.love  肥猫接口
 
-<http://饭太硬.top/tv>  饭太硬接口
+http://饭太硬.top/tv  饭太硬接口
 
-<http://xhww.fun:63/小米/DEMO.json>  小米 XBPQ接口
+http://xhww.fun:63/小米/DEMO.json  小米 XBPQ接口
 
-<https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json>  南风接口
+https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json  南风接口
 
-<https://raw.liucn.cc/box/m.json>  老刘备接口
+https://raw.liucn.cc/box/m.json  老刘备接口
 
 https://yydsys.top/duo  多多家庭接口
 
