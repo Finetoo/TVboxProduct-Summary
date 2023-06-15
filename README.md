@@ -40,6 +40,6 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json  南风接口
 
 https://raw.liucn.cc/box/m.json  老刘备接口
 
-https://yydsys.top/duo  多多家庭接口（部分电视无法加载）
+https://yydsys.top/duo  多多家庭接口（部分版本无法加载成功）
 
 ## 盒子软件 [分享迷](https://www.fenxm.com)
