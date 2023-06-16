@@ -8,11 +8,9 @@
 
 ## 其他二改
 
-FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)   特色：自动跳过失效源；可识别多仓接口
+FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)   特色：自动跳过失效源
 
 影视仓 [微信公众号发布地址](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwNTQwODA0MQ==&action=getalbum&album_id=2667215782833258504&scene=173&from_msgid=2247484180&from_itemidx=2&count=3&nolastread=1#wechat_redirect)   多仓版；自动跳过失效源
-
-宝盒 [Telegram发布地址](https://t.me/bh_tvbox)  特色：自动换源；支持多订阅
 
 ## TVBox接口
 
