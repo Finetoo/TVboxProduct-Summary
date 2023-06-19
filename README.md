@@ -40,4 +40,6 @@ https://raw.liucn.cc/box/m.json  老刘备接口
 
 https://yydsys.top/duo  多多家庭接口（部分版本无法加载成功）
 
+https://freed.yuanhsing.cf/TVBox/meowcf.json  元兴接口（部分版本无法加载成功）
+
 ## 盒子软件 [分享迷](https://www.fenxm.com)
