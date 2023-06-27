@@ -12,6 +12,8 @@ FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)   特色：
 
 影视仓 [微信公众号发布地址](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwNTQwODA0MQ==&action=getalbum&album_id=2667215782833258504&scene=173&from_msgid=2247484180&from_itemidx=2&count=3&nolastread=1#wechat_redirect)   多仓版；自动跳过失效源
 
+宝盒 [Telegram发布频道](https://t.me/bh_tvbox)
+
 ## TVBox接口
 
 [黎歌の主页](https://www.lige.fit)
@@ -38,8 +40,6 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json  南风接口
 
 https://raw.liucn.cc/box/m.json  老刘备接口
 
-https://yydsys.top/duo  多多家庭接口（部分版本无法加载成功）
-
-https://freed.yuanhsing.cf/TVBox/meowcf.json  元兴接口（部分版本无法加载成功）
+https://yydsys.top/duo  多多家庭接口
 
 ## 盒子软件 [分享迷](https://www.fenxm.com)
