@@ -10,9 +10,11 @@
 
 FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)   特色：自动跳过失效源
 
-影视仓 [微信公众号发布地址](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwNTQwODA0MQ==&action=getalbum&album_id=2667215782833258504&scene=173&from_msgid=2247484180&from_itemidx=2&count=3&nolastread=1#wechat_redirect)   多仓版；自动跳过失效源
+影视仓 [微信公众号发布地址](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwNTQwODA0MQ==&action=getalbum&album_id=2667215782833258504&scene=173&from_msgid=2247484180&from_itemidx=2&count=3&nolastread=1#wechat_redirect)   多仓版
 
 宝盒 [Telegram发布频道](https://t.me/bh_tvbox)
+
+EasyBox [Telegram发布频道](https://t.me/EasyBoxUpdate)
 
 ## TVBox接口
 
@@ -37,8 +39,6 @@ http://饭太硬.top/tv  饭太硬接口
 http://xhww.fun:63/小米/DEMO.json  小米 XBPQ接口
 
 https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json  南风接口
-
-https://raw.liucn.cc/box/m.json  老刘备接口
 
 https://yydsys.top/duo  多多家庭接口
 
