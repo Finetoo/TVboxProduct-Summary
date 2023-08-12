@@ -36,7 +36,7 @@ http://肥猫.love  肥猫接口
 
 http://饭太硬.top/tv  饭太硬接口
 
-http://xhww.fun:63/小米/DEMO.json  小米 XBPQ接口
+http://xhww.fun:63/小米/DEMO.json  小米 XBPQ接口  备份接口 https://ghproxy.com/https://raw.githubusercontent.com/Finetoo/TVboxProduct-Summary/main/DEMO.json
 
 https://tvbox.cainisi.cf  菜妮丝 XBPQ接口
 
