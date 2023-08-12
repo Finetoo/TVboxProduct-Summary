@@ -20,7 +20,7 @@ EasyBox [Telegram发布频道](https://t.me/EasyBoxUpdate)
 
 [黎歌の主页](https://www.lige.fit)
 
-[饭太硬 | 导航](http://%E9%A5%AD%E5%A4%AA%E7%A1%AC.ml)
+[饭太硬 | 导航](http://xn--sss604efuw.top/)
 
 [肥猫 | ✎ℳ𝓪𝓸](https://肥猫.love)
 
