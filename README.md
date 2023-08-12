@@ -38,6 +38,8 @@ http://饭太硬.top/tv  饭太硬接口
 
 http://xhww.fun:63/小米/DEMO.json  小米 XBPQ接口
 
+https://tvbox.cainisi.cf  菜妮丝 XBPQ接口
+
 https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json  南风接口
 
 https://yydsys.top/duo  多多家庭接口
