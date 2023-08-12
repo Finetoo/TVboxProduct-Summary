@@ -40,6 +40,10 @@ http://xhww.fun:63/小米/DEMO.json  小米 XBPQ接口  备份接口 https://ghp
 
 https://tvbox.cainisi.cf  菜妮丝 XBPQ接口
 
+https://pastebin.com/raw/5NHaxyGR  道长接口
+
+https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json  高天流云js接口
+
 https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json  南风接口
 
 https://yydsys.top/duo  多多家庭接口
