@@ -30,7 +30,9 @@ EasyBox [Telegram发布频道](https://t.me/EasyBoxUpdate)
 
 [cyao2q分享](https://github.com/cyao2q/files)
 
-⭐个人推荐接口⭐
+## ⭐个人推荐接口⭐
+
+https://ghproxy.com/https://raw.githubusercontent.com/Finetoo/TVboxProduct-Summary/main/duoxian.json  ⭐多线接口⭐
 
 http://肥猫.love  肥猫接口
 
