@@ -51,3 +51,7 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json  南风接口
 https://yydsys.top/duo  多多家庭接口
 
 ## 盒子软件 [分享迷](https://www.fenxm.com)
+
+电视家极速版、电视家2.0、电视家3.0、电视家酒店版
+
+火星直播
