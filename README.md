@@ -38,7 +38,7 @@ http://肥猫.love  肥猫接口
 
 http://饭太硬.top/tv  饭太硬接口
 
-http://xhww.fun:63/小米/DEMO.json  小米 XBPQ接口  备份接口 https://ghproxy.com/https://raw.githubusercontent.com/Finetoo/TVboxProduct-Summary/main/DEMO.json
+http://xhww.fun:63/小米/DEMO.json  小米 XBPQ接口
 
 https://tvbox.cainisi.cf  菜妮丝 XBPQ接口
 
@@ -50,8 +50,16 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json  南风接口
 
 https://yydsys.top/duo  多多家庭接口
 
-## 盒子软件 [分享迷](https://www.fenxm.com)
+## TV软件 [分享迷](https://www.fenxm.com)
 
 电视家极速版、电视家2.0、电视家3.0、电视家酒店版
 
 火星直播
+
+[秒看电视](https://www.fenxm.com/862.html)
+
+[神鸟电视](https://www.fenxm.com/908.html)
+
+[小鲸电视](https://www.fenxm.com/740.html)
+
+[阿里云盘TV](https://aliyunpantv.gitlab.io/)
