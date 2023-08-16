@@ -56,10 +56,6 @@ https://yydsys.top/duo  多多家庭接口
 
 火星直播
 
-[秒看电视](https://www.fenxm.com/862.html)
-
-[神鸟电视](https://www.fenxm.com/908.html)
-
-[小鲸电视](https://www.fenxm.com/740.html)
+[秒看电视](https://www.fenxm.com/862.html)   [神鸟电视](https://www.fenxm.com/908.html)   [小鲸电视](https://www.fenxm.com/740.html)
 
 [阿里云盘TV](https://aliyunpantv.gitlab.io/)
