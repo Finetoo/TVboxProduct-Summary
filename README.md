@@ -6,6 +6,8 @@
 
 [Telegram发布频道](https://t.me/TVBoxOSC)
 
+壁纸  https://ghproxy.com/https://raw.githubusercontent.com/Finetoo/TVboxProduct-Summary/main/bg.png
+
 ## 其他二改
 
 FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)   特色：自动跳过失效源
