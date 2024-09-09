@@ -50,6 +50,8 @@ https://www.mpanso.com/小米/DEMO.json  小米接口
 
 http://tvbox.王二小放牛娃.top/  王二小放牛娃接口
 
+https://yydsys.top/duo  多多家庭接口
+
 ## TV软件 [分享迷](https://www.fenxm.com)
 
 [阿里云盘TV](https://aliyunpantv.gitlab.io/)
