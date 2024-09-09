@@ -8,15 +8,15 @@
 
 壁纸  https://ghproxy.com/https://raw.githubusercontent.com/Finetoo/TVboxProduct-Summary/main/bg.png
 
-## 其他二改
+## 其他
 
-FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)   特色：自动跳过失效源
+FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)
 
-影视仓 [微信公众号发布地址](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwNTQwODA0MQ==&action=getalbum&album_id=2667215782833258504&scene=173&from_msgid=2247484180&from_itemidx=2&count=3&nolastread=1#wechat_redirect)   多仓版
+影视仓 [微信公众号发布地址](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwNTQwODA0MQ==&action=getalbum&album_id=2667215782833258504&scene=173&from_msgid=2247484180&from_itemidx=2&count=3&nolastread=1#wechat_redirect)
 
-宝盒 [Telegram发布频道](https://t.me/bh_tvbox)
+【停更】宝盒 [Telegram发布频道](https://t.me/bh_tvbox)
 
-EasyBox [Telegram发布频道](https://t.me/EasyBoxUpdate)
+【停更】EasyBox [Telegram发布频道](https://t.me/EasyBoxUpdate)
 
 ## TVBox接口
 
@@ -40,24 +40,10 @@ http://肥猫.love  肥猫接口
 
 http://饭太硬.top/tv  饭太硬接口
 
-http://xhww.fun:63/小米/DEMO.json  小米 XBPQ接口
-
-https://tvbox.cainisi.cf  菜妮丝 XBPQ接口
-
-https://pastebin.com/raw/5NHaxyGR  道长接口
-
-https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json  高天流云js接口
-
-https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json  南风接口
+http://xhww.fun:63/小米/DEMO.json  小米XBPQ接口
 
 https://yydsys.top/duo  多多家庭接口
 
 ## TV软件 [分享迷](https://www.fenxm.com)
-
-电视家极速版、电视家2.0、电视家3.0、电视家酒店版
-
-火星直播
-
-[秒看电视](https://www.fenxm.com/862.html)   [神鸟电视](https://www.fenxm.com/908.html)   [小鲸电视](https://www.fenxm.com/740.html)
 
 [阿里云盘TV](https://aliyunpantv.gitlab.io/)
