@@ -32,9 +32,7 @@
 
 [王二小放牛娃](http://tvbox.王二小放牛娃.top/)
 
-[多多の主页](https://yydsys.top/)
-
-[黎歌の主页](https://lige.chat/)
+[应用多多の主页](https://yydsys.top/)
 
 [cyao2q分享](https://github.com/cyao2q/files)
 
