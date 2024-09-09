@@ -34,8 +34,6 @@
 
 [大聪明 | 应用边界 - 星辰大海 不负遇见](https://yydsys.top)
 
-[应用多多](https://xduo.app/box/)
-
 [cyao2q分享](https://github.com/cyao2q/files)
 
 ## ⭐个人推荐接口⭐
