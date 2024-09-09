@@ -20,11 +20,11 @@ FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)
 
 ## TVBox接口
 
-[黎歌の主页](https://www.lige.fit)
+[黎歌の主页](https://lige.chat/)
 
-[饭太硬 | 导航](http://饭太硬.top)
+[饭太硬 | 导航](https://www.xn--sss604efuw.com/)
 
-[肥猫 | ✎ℳ𝓪𝓸](https://肥猫.love)
+[肥猫 | ✎ℳ𝓪𝓸](http://xn--z7x900a.live/)
 
 [大聪明 | 应用边界 - 星辰大海 不负遇见](https://yydsys.top)
 
@@ -33,8 +33,6 @@ FongMi / 影視TV [Github发布地址](https://github.com/FongMi/TV)
 [cyao2q分享](https://github.com/cyao2q/files)
 
 ## ⭐个人推荐接口⭐
-
-https://ghproxy.com/https://raw.githubusercontent.com/Finetoo/TVboxProduct-Summary/main/duoxian.json  ⭐多线接口⭐
 
 http://肥猫.love  肥猫接口
 
