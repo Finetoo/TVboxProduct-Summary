@@ -32,7 +32,9 @@
 
 [王二小放牛娃](http://tvbox.王二小放牛娃.top/)
 
-[大聪明 | 应用边界 - 星辰大海 不负遇见](https://yydsys.top)
+[多多の主页](https://yydsys.top/)
+
+[黎歌の主页](https://lige.chat/)
 
 [cyao2q分享](https://github.com/cyao2q/files)
 
